@@ -1,5 +1,5 @@
 # Python-Automated-Billing-Mail
- Application that automatically sends a mail via Outlook to a list of contacts(xlsx file) which present certain criteria. 
+ Application that automatically sends  e-mails via Outlook to a list of contacts(xlsx file) which present certain criteria. 
 
 The application imports three packages. They will do most of the job.
 win32com.client will allow us to acess Outlook, pandas will allow us to read the excel file, and datetime will be our time reference.
